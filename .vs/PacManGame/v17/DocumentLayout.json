@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|solutionrelative:pacmangame\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame\\models\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|solutionrelative:pacmangame\\models\\gameboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame\\models\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|solutionrelative:pacmangame\\models\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|solutionrelative:pacmangame\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|solutionrelative:pacmangame\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|solutionrelative:pacmangame\\models\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|solutionrelative:pacmangame\\models\\score.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D2D9B0-3BA5-49AC-9266-425B4E563356}|PacManGame.Tests\\PacManGame.Tests.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame.tests\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D2D9B0-3BA5-49AC-9266-425B4E563356}|PacManGame.Tests\\PacManGame.Tests.csproj|solutionrelative:pacmangame.tests\\playertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5D2D9B0-3BA5-49AC-9266-425B4E563356}|PacManGame.Tests\\PacManGame.Tests.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame.tests\\scoringhistorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5D2D9B0-3BA5-49AC-9266-425B4E563356}|PacManGame.Tests\\PacManGame.Tests.csproj|solutionrelative:pacmangame.tests\\scoringhistorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame\\models\\scoringhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|solutionrelative:pacmangame\\models\\scoringhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|solutionrelative:pacmangame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame\\pacmangame.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|solutionrelative:pacmangame\\pacmangame.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|c:\\users\\joao\\desktop\\projetos25\\pacmangame\\pacmangame\\enums\\eoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B126CEC-CE59-41F4-9796-828FABC34F2F}|PacManGame\\PacManGame.csproj|solutionrelative:pacmangame\\enums\\eoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "PacManGame\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Game.cs",
+              "RelativeToolTip": "PacManGame\\Models\\Game.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:53:08.713Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScoringHistoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame.Tests\\ScoringHistoryTest.cs",
+              "RelativeDocumentMoniker": "PacManGame.Tests\\ScoringHistoryTest.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame.Tests\\ScoringHistoryTest.cs",
+              "RelativeToolTip": "PacManGame.Tests\\ScoringHistoryTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:53:07.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Score.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Score.cs",
+              "RelativeDocumentMoniker": "PacManGame\\Models\\Score.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Score.cs",
+              "RelativeToolTip": "PacManGame\\Models\\Score.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:41:52.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScoringHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\ScoringHistory.cs",
+              "RelativeDocumentMoniker": "PacManGame\\Models\\ScoringHistory.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\ScoringHistory.cs",
+              "RelativeToolTip": "PacManGame\\Models\\ScoringHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:30:08.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlayerTest.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame.Tests\\PlayerTest.cs",
+              "RelativeDocumentMoniker": "PacManGame.Tests\\PlayerTest.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame.Tests\\PlayerTest.cs",
+              "RelativeToolTip": "PacManGame.Tests\\PlayerTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T00:16:28.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EOption.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Enums\\EOption.cs",
+              "RelativeDocumentMoniker": "PacManGame\\Enums\\EOption.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Enums\\EOption.cs",
+              "RelativeToolTip": "PacManGame\\Enums\\EOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:16:47.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "PacManGame\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Menu.cs",
+              "RelativeToolTip": "PacManGame\\Models\\Menu.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAmwDwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T23:04:15.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Position.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Position.cs",
+              "RelativeDocumentMoniker": "PacManGame\\Models\\Position.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Position.cs",
+              "RelativeToolTip": "PacManGame\\Models\\Position.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:54:50.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "PacManGame\\Models\\Player.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Player.cs",
+              "RelativeToolTip": "PacManGame\\Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:54:30.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ghost.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Ghost.cs",
+              "RelativeDocumentMoniker": "PacManGame\\Models\\Ghost.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\Ghost.cs",
+              "RelativeToolTip": "PacManGame\\Models\\Ghost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:54:16.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameBoard.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\GameBoard.cs",
+              "RelativeDocumentMoniker": "PacManGame\\Models\\GameBoard.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Models\\GameBoard.cs",
+              "RelativeToolTip": "PacManGame\\Models\\GameBoard.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:53:28.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Program.cs",
+              "RelativeDocumentMoniker": "PacManGame\\Program.cs",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\Program.cs",
+              "RelativeToolTip": "PacManGame\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T22:52:29.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALUUAAAAAAAAAAAIwMkUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-04-15T00:00:43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PacManGame",
+              "DocumentMoniker": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\PacManGame.csproj",
+              "RelativeDocumentMoniker": "PacManGame\\PacManGame.csproj",
+              "ToolTip": "C:\\Users\\Joao\\Desktop\\Projetos25\\PacManGame\\PacManGame\\PacManGame.csproj",
+              "RelativeToolTip": "PacManGame\\PacManGame.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T00:11:38.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
